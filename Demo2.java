@@ -9,9 +9,8 @@ public class Demo2
 	{
 		AS3 s3=new AS3(); //creat obj in different package
 		s3.std2();     ///call mtd in diferent package so we can call only public mtd.
-       
+      System.out.println("this msg only practice for gitbash"); 
 	}
-
 }
 
 
